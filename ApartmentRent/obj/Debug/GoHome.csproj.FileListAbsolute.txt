@@ -1,0 +1,16 @@
+c:\users\student\documents\visual studio 2015\Projects\GoHome\GoHome\bin\Debug\GoHome.dll
+c:\users\student\documents\visual studio 2015\Projects\GoHome\GoHome\bin\Debug\GoHome.pdb
+c:\users\student\documents\visual studio 2015\Projects\GoHome\GoHome\obj\Debug\GoHome.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\GoHome\GoHome\obj\Debug\GoHome.dll
+c:\users\student\documents\visual studio 2015\Projects\GoHome\GoHome\obj\Debug\GoHome.pdb
+\\Mac\Home\Downloads\GoHome\GoHome\bin\Debug\GoHome.dll
+\\Mac\Home\Downloads\GoHome\GoHome\bin\Debug\GoHome.pdb
+\\Mac\Home\Downloads\GoHome\GoHome\obj\Debug\GoHome.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\GoHome\GoHome\obj\Debug\GoHome.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GoHome\GoHome\obj\Debug\GoHome.dll
+\\Mac\Home\Downloads\GoHome\GoHome\obj\Debug\GoHome.pdb
+C:\Users\Home\Desktop\GoHomeV2\GoHome\bin\Debug\GoHome.dll
+C:\Users\Home\Desktop\GoHomeV2\GoHome\bin\Debug\GoHome.pdb
+C:\Users\Home\Desktop\GoHomeV2\GoHome\obj\Debug\GoHome.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\GoHomeV2\GoHome\obj\Debug\GoHome.dll
+C:\Users\Home\Desktop\GoHomeV2\GoHome\obj\Debug\GoHome.pdb

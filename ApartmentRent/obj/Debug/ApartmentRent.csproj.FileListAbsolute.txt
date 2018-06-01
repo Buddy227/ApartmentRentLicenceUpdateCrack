@@ -1,0 +1,34 @@
+C:\Users\Home\Desktop\GoHomeV2\GoHome\bin\Debug\GoHome.dll
+C:\Users\Home\Desktop\GoHomeV2\GoHome\bin\Debug\GoHome.pdb
+C:\Users\Home\Desktop\GoHomeV2\GoHome\obj\Debug\GoHome.dll
+C:\Users\Home\Desktop\GoHomeV2\GoHome\obj\Debug\GoHome.pdb
+C:\Users\Home\Desktop\GoHomeV2\ApartmentRent\bin\Debug\GoHome.dll
+C:\Users\Home\Desktop\GoHomeV2\ApartmentRent\bin\Debug\GoHome.pdb
+C:\Users\Home\Desktop\GoHomeV2\ApartmentRent\obj\Debug\ApartmentRent.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\GoHomeV2\ApartmentRent\obj\Debug\GoHome.dll
+C:\Users\Home\Desktop\GoHomeV2\ApartmentRent\obj\Debug\GoHome.pdb
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent\obj\Debug\ApartmentRent.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent\obj\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent\obj\Debug\ApartmentRent.pdb
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\bin\Debug\ApartmentRent.dll
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\bin\Debug\ApartmentRent.pdb
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\obj\Debug\ApartmentRent.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\obj\Debug\ApartmentRent.dll
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\obj\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\obj\Debug\ApartmentRent.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\obj\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent\obj\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent\obj\Debug\ApartmentRent.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent\obj\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent\obj\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent\obj\Debug\ApartmentRent.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent\obj\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent\obj\Debug\ApartmentRent.pdb

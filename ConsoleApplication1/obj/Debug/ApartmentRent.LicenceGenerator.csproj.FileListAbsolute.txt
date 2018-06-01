@@ -1,0 +1,19 @@
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ConsoleApplication1\obj\Debug\ApartmentRent.LicenceGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ConsoleApplication1\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ConsoleApplication1\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Home\Desktop\ApartmentRentLicence\ApartmentRentLicenceGenerator\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Home\Desktop\ApartmentRentLicence\ApartmentRentLicenceGenerator\obj\Debug\ConsoleApplication1.exe
+C:\Users\Home\Desktop\ApartmentRentLicence\ApartmentRentLicenceGenerator\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ConsoleApplication1\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ConsoleApplication1\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ConsoleApplication1\obj\Debug\ApartmentRent.LicenceGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

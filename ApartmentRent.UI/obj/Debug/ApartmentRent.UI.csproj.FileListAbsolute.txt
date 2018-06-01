@@ -1,0 +1,87 @@
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Form1.resources
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.ApartmentDescriptionForm2.resources
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe.config
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Properties.Resources.resources
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRentV2\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe.config
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Form1.resources
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Properties.Resources.resources
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.ApartmentDescriptionForm2.resources
+C:\Users\Home\Desktop\ApartmentRent\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csproj.GenerateResource.Cache
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe.config
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.exe
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.pdb
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.pdb
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.dll
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.pdb
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Form1.resources
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Properties.Resources.resources
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.ApartmentDescriptionForm2.resources
+C:\Users\Юлия\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe.config
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Form1.resources
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Properties.Resources.resources
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.ApartmentDescriptionForm2.resources
+C:\Users\Home\Desktop\ApartmentRent-master\ApartmentRent-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe.config
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Form1.resources
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Properties.Resources.resources
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.ApartmentDescriptionForm2.resources
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentFIX-master\ApartmentRent.UI\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentLicence\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe.config
+C:\Users\Home\Desktop\ApartmentRentLicence\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRentLicence\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe.config
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Form1.resources
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Properties.Resources.resources
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.ApartmentDescriptionForm2.resources
+C:\Users\Home\Desktop\ApartmentRentLicenceHACK — копия\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe.config
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.exe
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\bin\Debug\ApartmentRent.UI.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\bin\Debug\ApartmentRent.dll
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\bin\Debug\ApartmentRent.pdb
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Form1.resources
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.Properties.Resources.resources
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.ApartmentDescriptionForm2.resources
+C:\Users\Home\Desktop\ApartmentRentLicenceUpdate\ApartmentRent.UI\obj\Debug\ApartmentRent.UI.csproj.GenerateResource.Cache
